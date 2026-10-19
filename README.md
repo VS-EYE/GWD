@@ -1,6 +1,6 @@
 # GWD — Global Waste Classification
 
-Official code for the paper "<A Dataset for Waste Classification>".
+Official code for the paper "Dataset for Waste Classification".
 This repository contains the complete pipeline used to produce every result
 reported in the paper: dataset download, data loading, model construction,
 training, and evaluation.
@@ -53,7 +53,6 @@ confirm the copy is complete. Expect ~23.00 GB of free disk space during extract
 ### 1.4 Expected directory structure
 
 ```
-'', '', '', '','Medical_Hazardous','Metal','Misc_Trash','Organic_Biodegradable','Others_Unique','Paper_Cardboard','Plastics','Rubber_Polymer','Textiles_Fabric','Wood'
 data/GWD/
 ├── train/                      
 │   ├── Battery_Energy_Waste/
